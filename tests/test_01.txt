@@ -1,0 +1,6 @@
+ORDINARY:  1st message
+IMPORTANT: 2nd message
+EMERGANCY: 3rd message
+incoorect: 4th message
+no importance text message
+:q!

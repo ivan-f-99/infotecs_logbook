@@ -1,0 +1,13 @@
+ORDINARY:  1 message
+IMPORTANT: 2 message
+EMERGANCY: 3 message
+ORDINARY:  4 message
+IMPORTANT: 5 message
+EMERGANCY: 6 message
+ORDINARY:  7 message
+IMPORTANT: 8 message
+EMERGANCY: 9 message
+ORDINARY:  10 message
+IMPORTANT: 11 message
+EMERGANCY: 12 message
+:q!
